@@ -18,15 +18,16 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR3ee037_000.yaml, hash: 'sha256:96c1a0ed92a5dd62b72fd6381b5e19728b098fa51cfb5979b08e7e6de4babd84'}
-  - {seq: 1, filename: KR3ee037_001.yaml, hash: 'sha256:d58abf2191c5e637c5a0804b27fa7a7720702c10d6bf903a9f0622f0f6ffaa23'}
-  - {seq: 2, filename: KR3ee037_002.yaml, hash: 'sha256:7f242111c7aeffc872cefe17fe27a50a254b6d4bb8f0a9436056a5835f7bc0f0'}
-  - {seq: 3, filename: KR3ee037_003.yaml, hash: 'sha256:6ca29128768985f64bf5586d0db4c912cf82b8f932903e49a15008f58faef4fa'}
-  - {seq: 4, filename: KR3ee037_004.yaml, hash: 'sha256:9bed62ccc09e3cde829fc861ad9305fb74201513c3f4886e493c27f63071deb5'}
+  - {seq: 1, filename: KR3ee037_001.yaml, hash: 'sha256:0643e3fa09b72570b42fa24028a661184444c103ecddaf63435e9273db3f40a6'}
+  - {seq: 2, filename: KR3ee037_002.yaml, hash: 'sha256:91404056d425d4d155f1322f877f0f3479bb5a1e028c7c1c6b66d71c3dc8cd2c'}
+  - {seq: 3, filename: KR3ee037_003.yaml, hash: 'sha256:0b88fb0c2e404f342991da14ef1d60105eb0cd22faf93a96d3e24e9add463b97'}
+  - {seq: 4, filename: KR3ee037_004.yaml, hash: 'sha256:d6f189228a8006b9cc26bc7a095762376264a68d8f0d024c3ee30f765f392c05'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ee037_001.markers.yaml, hash: 'sha256:87d480d75af9532562223176fe1b51409b6184144a41c166580bdf07901f5e5e'}
-  - {seq: 2, role: markers, filename: assets/KR3ee037_002.markers.yaml, hash: 'sha256:c44d7852828dacf02eedbc74678968392ef27af19f06370128955cb123b841a2'}
-  - {seq: 3, role: markers, filename: assets/KR3ee037_003.markers.yaml, hash: 'sha256:d01a6eb07ee9530bb35b6600757b8aa451c8d33caa958e032fff93d55cfb67ee'}
-  - {seq: 4, role: markers, filename: assets/KR3ee037_004.markers.yaml, hash: 'sha256:c9d9fed2cd2b04993bb6684ceaea726db9d7f374f5dac58e5612476c1c3cef11'}
+  - {seq: 0, role: markers, filename: assets/KR3ee037_000.markers.yaml, hash: 'sha256:cbb88c43bfe88a2db696c7f14b67aaaa0e24b66122dd95923a57feaa8f61381b'}
+  - {seq: 1, role: markers, filename: assets/KR3ee037_001.markers.yaml, hash: 'sha256:f58bd7c8dc183af65dbd66272069c8fd835e420fddb6806c5eabe1abba57cb10'}
+  - {seq: 2, role: markers, filename: assets/KR3ee037_002.markers.yaml, hash: 'sha256:c2684d6abf48cde23c8afb229b5f53680c8d51f8f4d6d08976db9d7969bb45e9'}
+  - {seq: 3, role: markers, filename: assets/KR3ee037_003.markers.yaml, hash: 'sha256:54a5688dfc487f150819e3f8eeab076be4864d03fd6f4571f7eaa50889371026'}
+  - {seq: 4, role: markers, filename: assets/KR3ee037_004.markers.yaml, hash: 'sha256:289558db2ef7e5e963b536f30f868eeab0dd2faad63f4f5f1c684109f37bb2cd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1418,7 +1419,4 @@ table_of_contents:
   label: 禁灸穴目錄
   type: section
   level: 2
-hash: sha256:43523cf73d7065ee45bfd861036ee7ec6461ac5e3293cda3f1a0f176563fda04
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:239ece41de61487971767ffb221ea6712eb2c0f9fd3f65ac71803a87a0e3c05d
