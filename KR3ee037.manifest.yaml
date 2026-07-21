@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee037_000.yaml, hash: 'sha256:96c1a0ed92a5dd62b72fd6381b5e19728b098fa51cfb5979b08e7e6de4babd84'}
+  - {seq: 0, filename: KR3ee037_000.yaml, hash: 'sha256:6ac9d1e4fc24e949d4c2781dcbdb6d9350e1764a706b5253319f1f8bffdb6865'}
   - {seq: 1, filename: KR3ee037_001.yaml, hash: 'sha256:007703d3e76d416f1301d3a45e9ff86a66a248b7ee982b8201cddf2384e58295'}
   - {seq: 2, filename: KR3ee037_002.yaml, hash: 'sha256:d552f14cebb32981adc954859895891fcf9d40d6a000d57e2e0211ca90bd0821'}
   - {seq: 3, filename: KR3ee037_003.yaml, hash: 'sha256:99e980bd79528974c8c6adb25218773d543dd4fad17ddcd86ed4d213e5fe5d5e'}
   - {seq: 4, filename: KR3ee037_004.yaml, hash: 'sha256:3b2b0474151aef1d49927dce3f3a4e8530b9add5eb139b58d247375541677d82'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee037_000.markers.yaml, hash: 'sha256:cbb88c43bfe88a2db696c7f14b67aaaa0e24b66122dd95923a57feaa8f61381b'}
+  - {seq: 0, role: markers, filename: assets/KR3ee037_000.markers.yaml, hash: 'sha256:5c1419a961bd58ef4b4dbd6d885c812b2c66114d7f4a02559c01bfaa58aa8718'}
   - {seq: 1, role: markers, filename: assets/KR3ee037_001.markers.yaml, hash: 'sha256:1ec4495239ed789a880e1e245c33531900c04624f1e12d35e598f72d115e4156'}
   - {seq: 2, role: markers, filename: assets/KR3ee037_002.markers.yaml, hash: 'sha256:3922e62f8c7040e496f251d5e192916310db30621b44de7d9defbf285fb38a6d'}
   - {seq: 3, role: markers, filename: assets/KR3ee037_003.markers.yaml, hash: 'sha256:48fc567fa5dbece6eceebaf75bfe7c0d09bac93a7119f530c9ef377e3e03d3d7'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee037_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 349
   label: 序
@@ -1419,7 +1419,7 @@ table_of_contents:
   label: 禁灸穴目錄
   type: section
   level: 2
-hash: sha256:62ca73c4467b4b9893109010399bbc345b6d3271cd5b1c646568613cbb886133
+hash: sha256:fe616a2077cca1e791902ea86c7e096f83cd90944c53b10a0ace6467755b76c0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
